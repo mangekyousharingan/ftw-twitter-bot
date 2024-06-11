@@ -1,0 +1,9 @@
+http_server:
+  host: 0.0.0.0
+  port: 8080
+
+twitter:
+  api_key: hpvIqnk1vTVow3diOEp6P5q0e
+  api_key_secret: UHUbuEdqky80AAjO8b5LCZjMFXZmFejVzqfUTlnGfk0sCs9Z1R
+  access_token: 1600166330996592643-eMeZMHQNHjh4cNHhpwp7m5Kvw7voRw
+  access_token_secret: lus8x8ESehYooDqufOs5FGscsDNy65KuIm3efYJE572ch
